@@ -35,12 +35,8 @@ Users should be able to:
 
 ### Screenshot
 
-![](./preview.jpg)
 
-### Links
 
-- Solution URL: [https://github.com/karishma-dev/audiophile](https://github.com/karishma-dev/audiophile)
-- Live Site URL: [https://audiophile-krrish105.vercel.app/](https://audiophile-krrish105.vercel.app/)
 
 ## My process
 
@@ -58,14 +54,4 @@ Users should be able to:
 - [Formik](https://formik.org/)
 - [Yup](https://github.com/jquense/yup)
 
-### What I learned
-
-I learned how to use Formik and Yup library for better form validation.
-
-## Author
-
-- Portfolio: [Karishma](https://www.karishma.dev/)
-- Frontend Mentor - [karishma-dev](https://www.frontendmentor.io/profile/karishma-dev)
-- Twitter - [_karishma10](https://twitter.com/_karishma10)
-- LinkedIn - [Karishma Garg](https://www.linkedin.com/in/karishma-garg-)
-- CodePen - [karishma-dev](https://codepen.io/karishma-dev)
+#
