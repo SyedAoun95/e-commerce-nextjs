@@ -1,8 +1,8 @@
 const STRINGS = {
 	common: {
-		appName: "Audivile",
-		headerLogoText: "Audivile",
-		footerDescription: `Audivile is an all in one stop to fulfill your audio needs. We're a small team of music lovers and sound specialists who are devoted to helping you get the most out of personal audio. Come and visit our demo facility - we’re open 7 days a week.`,
+		appName: "Audiophile",
+		headerLogoText: "Audiophile",
+		footerDescription: `Audiophile is an all in one stop to fulfill your audio needs. We're a small team of music lovers and sound specialists who are devoted to helping you get the most out of personal audio. Come and visit our demo facility - we’re open 7 days a week.`,
 		copyright: `Copyright 2023. All Rights Reserved`,
 		productCTA: `See Product`,
 		categoryCTA: `Shop`,
@@ -71,7 +71,7 @@ const STRINGS = {
 	},
 	metadata: {
 		home: {
-			title: "Audivile",
+			title: "Audiophile",
 			description: "Audivile, an ecommerce website",
 		},
 	},
