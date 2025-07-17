@@ -2,7 +2,7 @@ const STRINGS = {
 	common: {
 		appName: "Audivile",
 		headerLogoText: "Audivile",
-		footerDescription: `Audiophile is an all in one stop to fulfill your audio needs. We're a small team of music lovers and sound specialists who are devoted to helping you get the most out of personal audio. Come and visit our demo facility - we’re open 7 days a week.`,
+		footerDescription: `Audivile is an all in one stop to fulfill your audio needs. We're a small team of music lovers and sound specialists who are devoted to helping you get the most out of personal audio. Come and visit our demo facility - we’re open 7 days a week.`,
 		copyright: `Copyright 2023. All Rights Reserved`,
 		productCTA: `See Product`,
 		categoryCTA: `Shop`,
@@ -71,14 +71,14 @@ const STRINGS = {
 	},
 	metadata: {
 		home: {
-			title: "AudioPhile",
-			description: "Audiophile, an ecommerce website",
+			title: "Audivile",
+			description: "Audivile, an ecommerce website",
 		},
 	},
 	component: {
 		bestAudioGear: {
 			title: `BRINGING YOU THE BEST AUDIO GEAR`,
-			description: `Located at the heart of New York City, Audiophile is the premier store for high end headphones, earphones, speakers, and audio accessories. We have a large showroom and luxury demonstration rooms available for you to browse and experience a wide range of our products. Stop by our store to meet some of the fantastic people who make Audiophile the best place to buy your portable audio equipment.`,
+			description: `Located at the heart of Capital city islamabad, Audiophile is the premier store for high end headphones, earphones, speakers, and audio accessories. We have a large showroom and luxury demonstration rooms available for you to browse and experience a wide range of our products. Stop by our store to meet some of the fantastic people who make Audiophile the best place to buy your portable audio equipment.`,
 		},
 	},
 };
