@@ -23,7 +23,7 @@ const Card = ({
 			/>
 			<strong className='block my-8 sm:mt-10 sm:mb-8'>{name}</strong>
 			<Link href={link} className='btn bg-[#A45223]'>
-				See Product
+				See Producti
 			</Link>
 		</div>
 	);
